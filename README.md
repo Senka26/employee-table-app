@@ -1,6 +1,12 @@
-# EmployeeApp
+# EmployeeTableApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
+
+## Project Overview
+
+EmployeeTableApp is an Angular application that displays a table of employees, ordered by the total time worked. The rows are highlighted if the employee worked less than 100 hours.
+
+Additionally, the page includes a pie chart that visually represents the percentage of total time worked by each employee.
 
 ## Development server
 
