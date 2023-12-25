@@ -3,28 +3,32 @@
     flex-direction: column;
     align-items: center;
     margin-top: 20px;
-  }
+}
   
-  table {
+table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 20px;
-  }
+}
   
-  th, td {
+th, td {
     border: 1px solid #ddd;
     padding: 8px;
     text-align: left;
-  }
+}
   
-  th {
+th {
     background-color: #f2f2f2;
-  }
+}
   
-  .highlighted {
+.highlighted {
     background-color: #ff9999;
-  }
+}
   
-  .text-style{
+.text-style{
     text-align: center;
-  }
+}
+
+.canvas-style{
+    margin-top: 10vh;
+}
